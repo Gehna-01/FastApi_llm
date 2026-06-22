@@ -159,9 +159,6 @@ Creates a concise and impactful elevator pitch.
 
 ## Future Enhancements
 
-* PDF Resume Upload Support
-* Cover Letter Generation
-* Resume Summary Generation
 * Multi-LLM Support
 * Authentication & Rate Limiting
 * Docker Deployment
